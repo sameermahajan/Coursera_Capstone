@@ -1,1 +1,1 @@
-If you are not able to view 'Capstone Project.ipynb' above, you can access it from [here](https://jp-tok.dataplatform.cloud.ibm.com/analytics/notebooks/v2/e93ae237-bdff-4c42-9250-498675ba667c/view?access_token=1a42dd7b3e55c645e4efaaf734e15d649d520be031cb2f39ef1c7d120a05bca9).
+If you are not able to view 'Capstone Project.ipynb' above, you can access it from https://jp-tok.dataplatform.cloud.ibm.com/analytics/notebooks/v2/e93ae237-bdff-4c42-9250-498675ba667c/view?access_token=1a42dd7b3e55c645e4efaaf734e15d649d520be031cb2f39ef1c7d120a05bca9.
